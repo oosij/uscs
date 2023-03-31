@@ -6,3 +6,7 @@
 
 두 가지다 따로 학습한 모델은 아니며, 모델 가중치를 불러와서 뉴스 수집한 내용을 기반으로 특정 조건 (시간, 갯수)으로 뉴스 기사를 요약한 후 DB(MySQL) 저장을 합니다.
 
+
+Output sample : 
+
+![image](https://user-images.githubusercontent.com/94098546/228995583-d5d01859-bd72-4339-aff6-b4f01e89f4f8.png)
